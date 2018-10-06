@@ -16,10 +16,13 @@ void MarkovText::build(const std::vector<std::string> & tokens)
 {
 	buildVertices(tokens);
 	//DEBUG
+	/*
 	std::cout << "Vertices:" << std::endl;
 	for (const std::string & s : vertices) 
 		std::cout << s << ';' << std::endl;
 	std::cout << vertices.size() << " vertices generated" << std::endl;
+	*/
+
 	buildAdjmat(tokens);
 	//DEBUG
 	/*

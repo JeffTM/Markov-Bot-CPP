@@ -40,7 +40,7 @@ int main()
 	cout << endl;
 	*/
 	
-	string file("jerry2.txt");
+	string file("seuss.txt");
 	vector<string> tokens;
 	Tokenizer tokenizer;
 	unsigned int seed = unsigned int(std::chrono::system_clock::now().time_since_epoch().count());
@@ -49,10 +49,12 @@ int main()
 	MarkovText bot;
 
 	tokenizer(file, tokens);
+	/*
 	cout << "Tokens:" << endl;
 	for (const string & s : tokens)
 		cout << s << ';' << endl;
 	cout << endl;
+	*/
 	bot.build(tokens);
 	cout << "Seed: " << seed << endl;
 	cout << endl;
