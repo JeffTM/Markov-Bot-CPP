@@ -1,0 +1,25 @@
+These conditions are sometimes called treatments. Example 10-1 described such an experiment;
+the two different treatments are two paint formulations, and the response is the drying
+time. The purpose of the study is to determine whether the new formulation results in a significant
+effect—reducing drying time. In this situation, the product developer (the experimenter)
+randomly assigned 10 test specimens to one formulation and 10 test specimens to the other
+formulation. Then the paints were applied to the test specimens in random order until all 20
+specimens were painted. This is an example of a completely randomized experiment.
+When statistical significance is observed in a randomized experiment, the experimenter
+can be confident in the conclusion that the difference in treatments resulted in the difference
+in response. That is, we can be confident that a cause-and-effect relationship has been found.
+Sometimes the objects to be used in the comparison are not assigned at random to the treatments.
+For example, the September 1992 issue of Circulation (a medical journal published
+by the American Heart Association) reports a study linking high iron levels in the body with
+increased risk of heart attack. The study, done in Finland, tracked 1931 men for five years
+and showed a statistically significant effect of increasing iron levels on the incidence of heart
+attacks. In this study, the comparison was not performed by randomly selecting a sample of
+men and then assigning some to a “low iron level” treatment and the others to a “high iron
+level” treatment. The researchers just tracked the subjects over time. Recall from Chapter 1
+that this type of study is called an observational study.
+It is difficult to identify causality in observational studies because the observed statistically
+significant difference in response for the two groups may be due to some other underlying
+factor (or group of factors) that was not equalized by randomization and not due to the treatments.
+For example, the difference in heart attack risk could be attributable to the difference in
+iron levels or to other underlying factors that form a reasonable explanation for the observed
+results—such as cholesterol levels or hypertension.
